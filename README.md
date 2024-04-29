@@ -6,8 +6,8 @@ I'm an Analyst and  Software Developer.
 My code is written in Delphi : Delphi was my first programming language when I started to write code professionally! 
 In the few past years, I found Python on my road. And I think that I was lucky for this.
 
-🔭 I’m currently working on me: I'm studying, I'm reading, I'm viewing everything that can help me to know! I think that everyone couldn't never stop learning!
-💬 Ask me about Delphi, something about Python; ask me about computer programming.
+- 🔭 I’m currently working on me: I'm studying, I'm reading, I'm viewing everything that can help me to know! I think that everyone couldn't never stop learning!
+- 💬 Ask me about Delphi, something about Python; ask me about computer programming.
 
 
 <!--
